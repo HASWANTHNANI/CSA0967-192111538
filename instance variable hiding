@@ -1,0 +1,16 @@
+class show
+{ 
+	int a;
+	show(int a)
+	{
+	   this.a= a; 
+	}
+}
+class thisex
+{
+	public static void main(String args[])
+	{
+		show s = new s();
+		s.show(10);
+	}
+
